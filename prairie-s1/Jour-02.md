@@ -9,5 +9,5 @@
 * [X] Passer en revue le REAC et le RC
 * [X] Élaboration d’une stratégie pour l’anglais
 * [X] Savoir comment aborder la gestion de son temps
-* [ ] Savoir comment poser des questions
+* [X] Savoir comment poser des questions
 * [ ] Savoir comment aborder un problème
