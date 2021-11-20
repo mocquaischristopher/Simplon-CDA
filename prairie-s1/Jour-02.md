@@ -10,4 +10,4 @@
 * [X] Élaboration d’une stratégie pour l’anglais
 * [X] Savoir comment aborder la gestion de son temps
 * [X] Savoir comment poser des questions
-* [ ] Savoir comment aborder un problème
+* [X] Savoir comment aborder un problème
