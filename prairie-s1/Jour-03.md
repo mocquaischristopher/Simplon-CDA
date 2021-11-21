@@ -10,7 +10,7 @@
   * [X] Mise à jour Linux, Mac
   * [X] Installation (Discord)
   * [X] Installation navigateur (Developper Edition)
-  * [ ] Création et configuration Mail pro 
+  * [X] Création et configuration Mail pro 
   * [ ] Création et configuration Twitter pro 
 
 * [ ] Découverte de Linux :
