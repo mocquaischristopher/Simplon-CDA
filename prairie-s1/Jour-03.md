@@ -13,7 +13,7 @@
   * [X] Création et configuration Mail pro 
   * [ ] Création et configuration Twitter pro 
 
-* [ ] Découverte de Linux :
+* [X] Découverte de Linux :
   * [ ] Savoir ce qu'est Linux
   * [ ] Savoir ce qu'est une distribution Linux
   * [ ] Comprendre l'arborescence de Linux
