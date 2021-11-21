@@ -7,7 +7,7 @@
 * [ ] Commencer à réfléchir à son projet Fil rouge
 
 * [X] Configuration de son environnement de travail
-  * [ ] Mise à jour Linux, Mac
+  * [X] Mise à jour Linux, Mac
   * [ ] Installation (Discord)
   * [ ] Installation navigateur (Developper Edition)
   * [ ] Création et configuration Mail pro 
