@@ -6,7 +6,7 @@
 
 * [ ] Commencer à réfléchir à son projet Fil rouge
 
-* [ ] Configuration de son environnement de travail
+* [X] Configuration de son environnement de travail
   * [ ] Mise à jour Linux, Mac
   * [ ] Installation (Discord)
   * [ ] Installation navigateur (Developper Edition)
