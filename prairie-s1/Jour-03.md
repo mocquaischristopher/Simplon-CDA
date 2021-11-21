@@ -24,5 +24,5 @@
   * [X] Comprendre comment fonctionne un shell
   * [ ] Comprendre le fonctionnement des alias et mise en place
   * [X] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
-  * [ ] Comprendre le principe des options dans les commandes
+  * [X] Comprendre le principe des options dans les commandes
 
