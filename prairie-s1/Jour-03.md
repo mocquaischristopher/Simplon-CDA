@@ -23,6 +23,6 @@
   * [X] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH 
   * [X] Comprendre comment fonctionne un shell
   * [ ] Comprendre le fonctionnement des alias et mise en place
-  * [ ] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
+  * [X] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
   * [ ] Comprendre le principe des options dans les commandes
 
