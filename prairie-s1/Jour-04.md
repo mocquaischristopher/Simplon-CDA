@@ -7,7 +7,7 @@
 
 * [X] Choix de son éditeur, configuration et customisation
 * [X] Découverte de VS Code
-* [ ] Découverte de Vim
+* [X] Découverte de Vim
 
 * [ ] Comprendre l'intérêt des raccourcis clavier
 * [ ] Découverte des raccourcis clavier Linux : 
