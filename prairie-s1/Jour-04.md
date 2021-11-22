@@ -6,7 +6,7 @@
 
 
 * [X] Choix de son éditeur, configuration et customisation
-* [ ] Découverte de VS Code
+* [X] Découverte de VS Code
 * [ ] Découverte de Vim
 
 * [ ] Comprendre l'intérêt des raccourcis clavier
