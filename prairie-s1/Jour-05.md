@@ -10,7 +10,7 @@
 
 Seulement si le wargame bandit est au niveau 5 minimum : 
 
-* [ ] Création de compte Github
+* [X] Création de compte Github
 * [ ] Installation et/ou configuration de Git
 * [ ] Comprendre ce qu’est le versionning
 * [ ] Comprendre le fonctionnement de Git
