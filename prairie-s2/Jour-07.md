@@ -5,10 +5,10 @@
 ### Documentation : 
 
 * [X] Savoir se documenter (MDN)
-* [ ] Comprendre la différence entre Frontend et Backend
+* [X] Comprendre la différence entre Frontend et Backend
 
-* [ ] Découverte de la sainte trinité du web (HTML, CSS et JS)
-  * [ ] Comprendre les différences et rôle de chacun
+* [X] Découverte de la sainte trinité du web (HTML, CSS et JS)
+  * [X] Comprendre les différences et rôle de chacun
 
 
 ### HTML :
