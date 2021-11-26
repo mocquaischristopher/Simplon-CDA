@@ -12,7 +12,7 @@
   * [X] Installation (Discord)
   * [X] Installation navigateur (Developper Edition)
   * [X] Création et configuration Mail pro 
-  * [ ] Création et configuration Twitter pro 
+  * [X] Création et configuration Twitter pro 
 
 * [X] Découverte de Linux :
   * [X] Savoir ce qu'est Linux
@@ -23,7 +23,7 @@
   * [X] Comprendre la différence entre une interface en ligne de commande et une interface graphique
   * [X] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH 
   * [X] Comprendre comment fonctionne un shell
-  * [ ] Comprendre le fonctionnement des alias et mise en place
+  * [X] Comprendre le fonctionnement des alias et mise en place
   * [X] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
   * [X] Comprendre le principe des options dans les commandes
 
