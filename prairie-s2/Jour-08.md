@@ -10,7 +10,7 @@
 * [X] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments,  IDs et le selecteur universel
 * [X] Savoir appliquer une mise en forme sur les éléments 
 * [X] Comprendre le box model
-* [ ] Découvrir le positionnement en CSS
+* [X] Découvrir le positionnement en CSS
 * [ ] Comprendre le fonctionnement et les différentes notation des couleurs en CSS
 * [ ] Comprendre les différentes notations pour le sizing en CSS (%, px, em, rem)
 * [ ] Savoir appliquer des bordures, ombres et backgrounds
