@@ -13,7 +13,7 @@
 * [X] Découverte des raccourcis clavier Linux : 
   * [X] Navigateur (fenêtres, onglets, navigation, etc …)
   * [X] Terminal (fenêtres, onglets, commandes)
-  * [ ] Découverte et installation de Albert (Linux) / Alfred (Mac)
+  * [X] Découverte et installation de Albert (Linux) / Alfred (Mac)
 
 * [X] Faire le cours "Comprendre le web" (Openclassrooms)
 * [ ] Faire le cours "Apprendre à apprendre" (Openclassrooms)
