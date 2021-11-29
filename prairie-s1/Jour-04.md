@@ -11,9 +11,9 @@
 
 * [X] Comprendre l'intérêt des raccourcis clavier
 * [X] Découverte des raccourcis clavier Linux : 
-  * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
-  * [ ] Terminal (fenêtres, onglets, commandes)
-  * [ ] Découverte et installation de Albert (Linux) / Alfred (Mac)
+  * [X] Navigateur (fenêtres, onglets, navigation, etc …)
+  * [X] Terminal (fenêtres, onglets, commandes)
+  * [X] Découverte et installation de Albert (Linux) / Alfred (Mac)
 
 * [X] Faire le cours "Comprendre le web" (Openclassrooms)
 * [ ] Faire le cours "Apprendre à apprendre" (Openclassrooms)
