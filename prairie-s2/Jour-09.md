@@ -7,7 +7,7 @@
 
 * [X] Savoir manipuler les polices en CSS
 * [X] Découvrir Google Fonts
-* [ ] Savoir intégrer des polices extérieures dans le CSS
+* [X] Savoir intégrer des polices extérieures dans le CSS
 * [ ] Comprendre la notion de cascade en CSS
 * [ ] Comprendre le fonctionnement de l'héritage en CSS
 * [ ] Comprendre la précédence en CSS
