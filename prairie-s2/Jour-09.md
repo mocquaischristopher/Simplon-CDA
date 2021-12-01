@@ -12,7 +12,7 @@
 * [X] Comprendre le fonctionnement de l'héritage en CSS
 * [X] Comprendre la précédence en CSS
 * [X] Découvrir les sélécteurs avancés et les combinateurs en CSS
-* [ ] Découvrir le responsive design :
+* [X] Découvrir le responsive design :
   * [ ] Comprendre l'utilité du responsive design
   * [ ] Comprendre le fonctionnement des medias queries
   * [ ] Comprendre la notion de mobile first
