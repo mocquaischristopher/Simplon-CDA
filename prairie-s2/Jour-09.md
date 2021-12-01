@@ -13,6 +13,6 @@
 * [X] Comprendre la précédence en CSS
 * [X] Découvrir les sélécteurs avancés et les combinateurs en CSS
 * [X] Découvrir le responsive design :
-  * [ ] Comprendre l'utilité du responsive design
+  * [X] Comprendre l'utilité du responsive design
   * [ ] Comprendre le fonctionnement des medias queries
   * [ ] Comprendre la notion de mobile first
