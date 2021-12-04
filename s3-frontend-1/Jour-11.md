@@ -18,7 +18,7 @@
   * [X] Comprendre l'imbrication dans SASS (Nesting)
   * [X] Comprendre l'utilité et le fonctionnement des partials dans SASS et l'importation (`@import`)
   * [X] Comprendre l'utilité et le fonctionnement des `mixins` dans SASS
-  * [ ] Comprendre l'utilité et le fonctionnement de l'`extend` dans SASS
+  * [X] Comprendre l'utilité et le fonctionnement de l'`extend` dans SASS
   
   * [ ] Découvrir l'architecture `7-1` :
     * [ ] Comprendre l'intérêt de cette architecture
