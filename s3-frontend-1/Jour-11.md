@@ -21,6 +21,6 @@
   * [X] Comprendre l'utilité et le fonctionnement de l'`extend` dans SASS
   
   * [X] Découvrir l'architecture `7-1` :
-    * [ ] Comprendre l'intérêt de cette architecture
+    * [X] Comprendre l'intérêt de cette architecture
     * [ ] Construire son propre boilerplate SASS 7-1
 
