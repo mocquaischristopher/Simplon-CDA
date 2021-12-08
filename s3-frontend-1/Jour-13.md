@@ -5,7 +5,7 @@
 ### Algo : 
 
 * [X] Comprendre ce qu'est un algorithme
-* [ ] Comprendre l'utilité des algorithmes
+* [X] Comprendre l'utilité des algorithmes
 * [ ] Déterminer l'importance de l’étude des algorithmes
 * [ ] Comprendre l'utilité des algorithmes de tri
 * [ ] Découvrir le tri par insertion (Insertion Sort)
