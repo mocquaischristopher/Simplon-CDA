@@ -7,7 +7,7 @@
 * [X] Comprendre ce qu'est un algorithme
 * [X] Comprendre l'utilité des algorithmes
 * [X] Déterminer l'importance de l’étude des algorithmes
-* [ ] Comprendre l'utilité des algorithmes de tri
+* [X] Comprendre l'utilité des algorithmes de tri
 * [ ] Découvrir le tri par insertion (Insertion Sort)
 * [ ] Découvrir le tri à bulles (Bubble Sort)
 * [ ] Découvrir le tri par selection (Selection Sort)
