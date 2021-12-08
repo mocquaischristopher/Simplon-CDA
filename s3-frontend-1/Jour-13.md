@@ -4,7 +4,7 @@
 
 ### Algo : 
 
-* [ ] Comprendre ce qu'est un algorithme
+* [X] Comprendre ce qu'est un algorithme
 * [ ] Comprendre l'utilité des algorithmes
 * [ ] Déterminer l'importance de l’étude des algorithmes
 * [ ] Comprendre l'utilité des algorithmes de tri
