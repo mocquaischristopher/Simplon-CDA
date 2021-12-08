@@ -9,7 +9,7 @@
 * [X] Déterminer l'importance de l’étude des algorithmes
 * [X] Comprendre l'utilité des algorithmes de tri
 * [X] Découvrir le tri par insertion (Insertion Sort)
-* [ ] Découvrir le tri à bulles (Bubble Sort)
+* [X] Découvrir le tri à bulles (Bubble Sort)
 * [ ] Découvrir le tri par selection (Selection Sort)
 * [ ] Découvrir le tri par tas (Heap Sort)
 * [ ] Découvrir le tri fusion (Merge Sort)
