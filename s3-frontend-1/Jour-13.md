@@ -15,5 +15,5 @@
 * [X] Découvrir le tri fusion (Merge Sort)
 * [X] Découvrir le tri rapide (Quicksort)
 
-* [ ] Ecrire en pseudocode ces algorithmes de tri (création pure)
+* [X] Ecrire en pseudocode ces algorithmes de tri (création pure)
 * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
