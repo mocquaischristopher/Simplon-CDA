@@ -5,7 +5,7 @@
 
 ### Javascript
 
-* [ ] Comprendre ce qu'est Javascript, ce qu'il peut, ce qu'il ne peut pas (http://fr.javascript.info/intro)
+* [X] Comprendre ce qu'est Javascript, ce qu'il peut, ce qu'il ne peut pas (http://fr.javascript.info/intro)
 * [ ] Découvrir la documentation officielle JavaScript (http://fr.javascript.info/manuals-specifications) : 
     * [ ] Comprendre ce qu'est la spécification `ECMA-262`
     * [ ] Comprendre ce qu'est le `TC-39`
