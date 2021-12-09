@@ -16,4 +16,4 @@
 * [X] Découvrir le tri rapide (Quicksort)
 
 * [X] Ecrire en pseudocode ces algorithmes de tri (création pure)
-* [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
+* [X] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
