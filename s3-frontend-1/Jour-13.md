@@ -13,7 +13,7 @@
 * [X] Découvrir le tri par selection (Selection Sort)
 * [X] Découvrir le tri par tas (Heap Sort)
 * [X] Découvrir le tri fusion (Merge Sort)
-* [ ] Découvrir le tri rapide (Quicksort)
+* [X] Découvrir le tri rapide (Quicksort)
 
 * [ ] Ecrire en pseudocode ces algorithmes de tri (création pure)
 * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
