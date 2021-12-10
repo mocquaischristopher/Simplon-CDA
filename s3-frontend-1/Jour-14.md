@@ -11,7 +11,7 @@
     * [X] Comprendre ce qu'est le `TC-39`
     * [X] Lister les bonnes sources de documentation
 * [X] Savoir comment insérer du javascript dans du HTML de différentes manières (http://fr.javascript.info/hello-world)
-* [ ] Savoir comment sont structurés les documents javascript (http://fr.javascript.info/structure)
+* [X] Savoir comment sont structurés les documents javascript (http://fr.javascript.info/structure)
 * [ ] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://fr.javascript.info/strict-mode)
 * [ ] Comprendre le fonctionnement et l'utilité des variables (http://fr.javascript.info/variables)
     * [ ] Comprendre la différence entre `let`, `var` et `const`
