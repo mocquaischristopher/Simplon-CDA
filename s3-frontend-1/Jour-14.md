@@ -28,4 +28,4 @@
   * [X] Comprendre la précédence des opérateurs
   * [X] Comprendre le modulo
   * [X] Comprendre l'incrémentation, la différence entre préfix et postfix
-  * [ ] Faire les 4 exercices et analyser ses erreurs
+  * [X] Faire les 4 exercices et analyser ses erreurs
