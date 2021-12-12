@@ -19,7 +19,7 @@
 * [X] Découvrir les 8 types de données en Javascript et comprendre leurs différences (http://fr.javascript.info/types)
     * [X] Faire l'exercice et analyser ses erreurs le cas échéant
 
-* [ ] Comprendre le fonctionnement de `alert`, `prompt` et https://fr.javascript.info/alert-prompt-confirm
+* [X] Comprendre le fonctionnement de `alert`, `prompt` et https://fr.javascript.info/alert-prompt-confirm
   * [ ] Faire l’exercice et analyser ses erreurs
 * [ ] Comprendre les conversion de types en Javascript (http://fr.javascript.info/type-conversions)
 * [ ] Comprendre le fonctionnement des opérateurs en Javascript (https://fr.javascript.info/operators)
