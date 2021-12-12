@@ -27,5 +27,5 @@
   * [X] Comprendre la concaténation
   * [X] Comprendre la précédence des opérateurs
   * [X] Comprendre le modulo
-  * [ ] Comprendre l'incrémentation, la différence entre préfix et postfix
+  * [X] Comprendre l'incrémentation, la différence entre préfix et postfix
   * [ ] Faire les 4 exercices et analyser ses erreurs
