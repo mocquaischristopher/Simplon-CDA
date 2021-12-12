@@ -25,7 +25,7 @@
 * [X] Comprendre le fonctionnement des opérateurs en Javascript (https://fr.javascript.info/operators)
   * [X] Comprendre la différence entre unaire, binaire et opérande
   * [X] Comprendre la concaténation
-  * [ ] Comprendre la précédence des opérateurs
+  * [X] Comprendre la précédence des opérateurs
   * [ ] Comprendre le modulo
   * [ ] Comprendre l'incrémentation, la différence entre préfix et postfix
   * [ ] Faire les 4 exercices et analyser ses erreurs
