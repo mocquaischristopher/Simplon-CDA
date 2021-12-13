@@ -9,7 +9,7 @@
     * [X] Comprendre quelle est la différence entre `==` et `===`
     * [X] Comprendre comment sont comparées des valeurs de types différents
     * [X] Comprendre le mécanisme de comparaison avec `null` et `undefined`
-    * [ ] Faire l’exercice et analyser ses erreurs
+    * [X] Faire l’exercice et analyser ses erreurs
   * [ ] Comprendre le fonctionnement des opérateurs conditionnels `if` et `?` (https://javascript.info/ifelse)
     * [ ] Faire les 5 exercices et analyser ses erreurs
   * [ ] Comprendre le fonctionnement des opérateurs logiques `||`, `&&` et `!` (https://javascript.info/logical-operators)
