@@ -6,7 +6,7 @@
 
 * [X] Comprendre la comparaison en Javascript (https://fr.javascript.info/comparison) :
     * [X] Comprendre comment sont comparés les strings
-    * [ ] Comprendre quelle est la différence entre `==` et `===`
+    * [X] Comprendre quelle est la différence entre `==` et `===`
     * [ ] Comprendre comment sont comparées des valeurs de types différents
     * [ ] Comprendre le mécanisme de comparaison avec `null` et `undefined`
     * [ ] Faire l’exercice et analyser ses erreurs
