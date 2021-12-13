@@ -4,7 +4,7 @@
 
 ### Javascript
 
-* [ ] Comprendre la comparaison en Javascript (https://fr.javascript.info/comparison) :
+* [X] Comprendre la comparaison en Javascript (https://fr.javascript.info/comparison) :
     * [ ] Comprendre comment sont comparés les strings
     * [ ] Comprendre quelle est la différence entre `==` et `===`
     * [ ] Comprendre comment sont comparées des valeurs de types différents
