@@ -7,7 +7,7 @@
 * [X] Comprendre le fonctionnement des boucles `while` et `for` (https://javascript.info/while-for)
   * [X] Faire les 7 exercices et analyser ses erreurs
 * [X] Comprendre le fonctionnement du `switch` (https://javascript.info/switch)
-  * [ ] Faire les 7 exercices et analyser ses erreurs
+  * [X] Faire les 7 exercices et analyser ses erreurs
 * [ ] Comprendre le fonctionnement des fonctions (https://javascript.info/function-basics)
     * [ ] Faire les 4 exercices
 * [ ] Comprendre le fonctionnement des fonctions expression (https://fr.javascript.info/function-expressions)
