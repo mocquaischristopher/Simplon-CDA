@@ -13,4 +13,4 @@
   * [X] Comprendre le fonctionnement des opérateurs conditionnels `if` et `?` (https://javascript.info/ifelse)
     * [X] Faire les 5 exercices et analyser ses erreurs
   * [X] Comprendre le fonctionnement des opérateurs logiques `||`, `&&` et `!` (https://javascript.info/logical-operators)
-    * [ ] Faire les 9 exercices et analyser ses erreurs
+    * [X] Faire les 9 exercices et analyser ses erreurs
