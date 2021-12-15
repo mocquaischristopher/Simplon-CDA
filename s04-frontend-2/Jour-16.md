@@ -18,6 +18,6 @@
 
 #### Exercices
 
-* [ ] S'inscrire sur Codewars : https://www.codewars.com
+* [X] S'inscrire sur Codewars : https://www.codewars.com
 * [ ] Faire le kata "Function 1 - hello world" (https://www.codewars.com/kata/function-1-hello-world/javascript)
 * [ ] Faire le kata "Even or Odd" (8 kyu) : https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/
