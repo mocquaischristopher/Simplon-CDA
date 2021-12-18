@@ -23,5 +23,5 @@
 ### Algo (Révision) : 
 
   * [X] Revoir le mécanisme de tri par selection (Selection Sort)
-  * [ ] Revoir le mécanisme de tri par tas (Heap Sort)
+  * [X] Revoir le mécanisme de tri par tas (Heap Sort)
   * [ ] Revoir le mécanisme de tri fusion (Merge Sort)
