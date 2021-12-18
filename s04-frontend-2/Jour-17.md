@@ -9,7 +9,7 @@
 * [X] Comprendre l'utilité des commentaires, savoir faire la différence entre un code bien commenté et un code mal commenté (https://javascript.info/comments)
 * [X] Devenir un Ninja du code (https://javascript.info/ninja-code)
 * [X] Comprendre ce que sont les polyfills et leur utilité (https://javascript.info/polyfills)
-  * [ ] Comprendre la différence entre "transpilation" et "compilation"
+  * [X] Comprendre la différence entre "transpilation" et "compilation"
   * [ ] Comprendre l'utilité de Babel
   
 
