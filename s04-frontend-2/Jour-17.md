@@ -15,7 +15,7 @@
 
 #### Exercices
 
-* [ ] * [ ] Faire le kata "Opposite number" (8 kyu) : https://www.codewars.com/kata/56dec885c54a926dcd001095
+* [X] * [ ] Faire le kata "Opposite number" (8 kyu) : https://www.codewars.com/kata/56dec885c54a926dcd001095
 * [ ] Faire le kata "Return Negative" (8 kyu) : https://www.codewars.com/kata/55685cd7ad70877c23000102
 * [ ] Faire le kata "Convert boolean values to strings 'Yes' or 'No'." (8 kyu) : https://www.codewars.com/kata/53369039d7ab3ac506000467
 
