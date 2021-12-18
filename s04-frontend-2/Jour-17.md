@@ -10,7 +10,7 @@
 * [X] Devenir un Ninja du code (https://javascript.info/ninja-code)
 * [X] Comprendre ce que sont les polyfills et leur utilité (https://javascript.info/polyfills)
   * [X] Comprendre la différence entre "transpilation" et "compilation"
-  * [ ] Comprendre l'utilité de Babel
+  * [X] Comprendre l'utilité de Babel
   
 
 #### Exercices
