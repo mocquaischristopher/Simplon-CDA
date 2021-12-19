@@ -10,7 +10,7 @@
   * [X] Comprendre la différence entre un objet et une variable
   * [X] Savoir itérer dans un objet
   * [X] Comprendre la copie par référence
-  * [ ] Savoir copier un objet (cloner)
+  * [X] Savoir copier un objet (cloner)
   * [ ] Faire les 5 exercices et analyser ses erreurs
 * [ ] Comprendre les références d’objet et leur copie (https://fr.javascript.info/object-copy) 
 
