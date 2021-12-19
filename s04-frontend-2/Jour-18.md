@@ -11,7 +11,7 @@
   * [X] Savoir itérer dans un objet
   * [X] Comprendre la copie par référence
   * [X] Savoir copier un objet (cloner)
-  * [ ] Faire les 5 exercices et analyser ses erreurs
+  * [X] Faire les 5 exercices et analyser ses erreurs
 * [ ] Comprendre les références d’objet et leur copie (https://fr.javascript.info/object-copy) 
 
 
