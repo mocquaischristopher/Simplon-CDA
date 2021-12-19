@@ -7,7 +7,7 @@
 
 * [X] Découvrir les Objets en JS (https://javascript.info/object)
   * [X] Comprendre le principe de clé/valeur
-  * [ ] Comprendre la différence entre un objet et une variable
+  * [X] Comprendre la différence entre un objet et une variable
   * [ ] Savoir itérer dans un objet
   * [ ] Comprendre la copie par référence
   * [ ] Savoir copier un objet (cloner)
