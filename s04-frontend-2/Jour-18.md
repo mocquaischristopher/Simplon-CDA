@@ -18,7 +18,7 @@
 #### Codewars :
 
  * [X] Faire le kata "Century From Year" (8 kyu) : https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
- * [ ] Faire le kata "Keep Hydrated!" (8 kyu) : https://www.codewars.com/kata/582cb0224e56e068d800003c
+ * [X] Faire le kata "Keep Hydrated!" (8 kyu) : https://www.codewars.com/kata/582cb0224e56e068d800003c
 
 ### Algo : 
 
