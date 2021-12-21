@@ -11,7 +11,7 @@
   * [X] Faire les 5 exercices et analyser ses erreurs
 * [X] Découvrir le Chaînage optionnel `?.` (https://fr.javascript.info/object-toprimitive)
 * [X] Découvrir les méthodes de primitives (https://fr.javascript.info/primitives-methods)
-  * [ ] Faire l’exercice et analyser ses erreurs
+  * [X] Faire l’exercice et analyser ses erreurs
 * [ ] Appronfondir les `numbers` en Javascript (https://fr.javascript.info/number)
   * [ ] Faire les 6 exercices et analyser ses erreurs
 * [ ] Comprendre le fonctionnement des tableaux en Javascript (https://fr.javascript.info/array)
