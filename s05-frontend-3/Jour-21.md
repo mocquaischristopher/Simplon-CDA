@@ -15,7 +15,7 @@
 * [X] Appronfondir les `numbers` en Javascript (https://fr.javascript.info/number)
   * [X] Faire les 6 exercices et analyser ses erreurs
 * [X] Comprendre le fonctionnement des tableaux en Javascript (https://fr.javascript.info/array)
-* [ ] Approfondir les tableaux en Javascript en faisant le tour des méthodes disponibles (https://fr.javascript.info/array-methods)
+* [X] Approfondir les tableaux en Javascript en faisant le tour des méthodes disponibles (https://fr.javascript.info/array-methods)
 
 
 
