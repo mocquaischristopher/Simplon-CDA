@@ -25,7 +25,7 @@
 * [X] Faire le kata "Grasshopper - Terminal Game #1" (8 kyu) : https://www.codewars.com/kata/55e8aba23d399a59500000ce/javascript
 * [X] Faire le kata "Keep up the hoop" (8 kyu) : https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145
 * [X] String repeat (https://www.codewars.com/kata/string-repeat/javascript)
-* [ ] Remove First and Last Character (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+* [X] Remove First and Last Character (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 * [ ] Convert a Number to a String! (https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
 * [ ] Convert a String to a Number! (https://www.codewars.com/kata/544675c6f971f7399a000e79)
 * [ ] Sum of positive (https://www.codewars.com/kata/sum-of-positive/javascript)
