@@ -4,7 +4,7 @@
 
 ### Javascript
 
-* [ ] Découvrir ce que sont les tests unitaires
+* [X] Découvrir ce que sont les tests unitaires
   * [ ] Utilité et fonctionnement
   * [ ] Les différents types de tests (unitaires, d'intégration, fonctionnels)
 * [ ] Découvrir la stack de tests unitaires à base de Mocha et utilité de chaque élément : 
