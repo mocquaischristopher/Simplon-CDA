@@ -29,7 +29,7 @@
 * [X] Convert a Number to a String! (https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
 * [X] Convert a String to a Number! (https://www.codewars.com/kata/544675c6f971f7399a000e79)
 * [X] Sum of positive (https://www.codewars.com/kata/sum-of-positive/javascript)
-* [ ] Find the smallest integer in the array (https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
+* [X] Find the smallest integer in the array (https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
 
 
 
