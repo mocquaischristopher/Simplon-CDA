@@ -6,7 +6,7 @@
 ### Javascript :
 
 * [X] Réussir les katas suivants et réaliser des tests unitaires pour chaque (5  par fonction au moins ) :
-    * [ ] Looping a triangle
+    * [X] Looping a triangle
     * [ ] FizzBuzz
     * [ ] Chess board
     * [ ] Minimum
