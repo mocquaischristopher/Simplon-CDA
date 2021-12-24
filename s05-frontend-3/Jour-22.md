@@ -11,5 +11,5 @@
   * [X] Mocha JS
     * [X] Chai JS
     * [X] Istambul JS / C8
-    * [ ] Sinon JS (Optionnel pour l'instant)
+    * [X] Sinon JS (Optionnel pour l'instant)
 * [ ] Ecrire ses premiers tests unitaires
