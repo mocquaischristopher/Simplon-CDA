@@ -8,6 +8,6 @@
 * [X] Réussir les katas suivants et réaliser des tests unitaires pour chaque (5  par fonction au moins ) :
     * [X] Looping a triangle
     * [X] FizzBuzz
-    * [ ] Chess board
+    * [X] Chess board
     * [ ] Minimum
     * [ ] Récursion
