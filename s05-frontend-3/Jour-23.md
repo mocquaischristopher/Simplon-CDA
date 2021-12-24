@@ -9,5 +9,5 @@
     * [X] Looping a triangle
     * [X] FizzBuzz
     * [X] Chess board
-    * [ ] Minimum
+    * [X] Minimum
     * [ ] Récursion
