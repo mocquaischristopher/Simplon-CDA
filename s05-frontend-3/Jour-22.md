@@ -12,4 +12,4 @@
     * [X] Chai JS
     * [X] Istambul JS / C8
     * [X] Sinon JS (Optionnel pour l'instant)
-* [ ] Ecrire ses premiers tests unitaires
+* [X] Ecrire ses premiers tests unitaires
