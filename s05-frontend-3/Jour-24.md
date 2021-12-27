@@ -8,5 +8,5 @@
 * [X] Réussir les katas suivants et réaliser des tests unitaires pour chaque (5  par fonction au moins ) :
     * [X] Bean counting
     * [X] Sum of Range
-    * [ ] Reversing array
+    * [X] Reversing array
     * [ ] Josephus problem
