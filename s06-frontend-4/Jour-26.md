@@ -9,7 +9,7 @@
   
   * [X] Comprendre la différence entre les 3 types de `nodes` dans le `DOM` (https://fr.javascript.info/dom-nodes)
   
-  * [ ] Comprendre la navigation du DOM (https://fr.javascript.info/dom-navigation) :
+  * [X] Comprendre la navigation du DOM (https://fr.javascript.info/dom-navigation) :
     * [ ] Comprendre la différence entre les `Child Nodes` et les `Descendants`
     * [ ] Comprendre la différence entre une `collection` et un `array`
     * [ ] Comprendre la différence entre un `element` et un `node`
