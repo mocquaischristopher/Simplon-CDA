@@ -15,7 +15,7 @@
     * [X] Comprendre la différence entre un `element` et un `node`
     * [X] Bien comprendre à quoi correspond : 
       * [X] `parentElement`
-      * [ ] `children`
+      * [X] `children`
       * [ ] `firstElementChild`
       * [ ] `lastElementChild`
       * [ ] `previousElementSibling`
