@@ -19,7 +19,7 @@
       * [X] `firstElementChild`
       * [X] `lastElementChild`
       * [X] `previousElementSibling`
-      * [ ] `nextElementSibling`
+      * [X] `nextElementSibling`
       * [ ] `parentNode`
       * [ ] `childNodes`
       * [ ] `firstChild`
