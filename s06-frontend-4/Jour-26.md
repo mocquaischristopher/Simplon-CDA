@@ -16,7 +16,7 @@
     * [X] Bien comprendre à quoi correspond : 
       * [X] `parentElement`
       * [X] `children`
-      * [ ] `firstElementChild`
+      * [X] `firstElementChild`
       * [ ] `lastElementChild`
       * [ ] `previousElementSibling`
       * [ ] `nextElementSibling`
