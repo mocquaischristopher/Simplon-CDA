@@ -14,7 +14,7 @@
     * [X] Comprendre la différence entre une `collection` et un `array`
     * [X] Comprendre la différence entre un `element` et un `node`
     * [X] Bien comprendre à quoi correspond : 
-      * [ ] `parentElement`
+      * [X] `parentElement`
       * [ ] `children`
       * [ ] `firstElementChild`
       * [ ] `lastElementChild`
