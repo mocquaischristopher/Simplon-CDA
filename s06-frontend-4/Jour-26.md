@@ -13,7 +13,7 @@
     * [X] Comprendre la différence entre les `Child Nodes` et les `Descendants`
     * [X] Comprendre la différence entre une `collection` et un `array`
     * [X] Comprendre la différence entre un `element` et un `node`
-    * [ ] Bien comprendre à quoi correspond : 
+    * [X] Bien comprendre à quoi correspond : 
       * [ ] `parentElement`
       * [ ] `children`
       * [ ] `firstElementChild`
