@@ -24,7 +24,7 @@
       * [X] `childNodes`
       * [X] `firstChild`
       * [X] `lastChild`
-      * [ ] `previousSibling`
+      * [X] `previousSibling`
       * [ ] `nextSibling`
     * [ ] Faire les 3 exercices et analyser ses erreurs
 
