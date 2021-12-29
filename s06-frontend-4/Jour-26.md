@@ -28,7 +28,7 @@
       * [X] `nextSibling`
     * [X] Faire les 3 exercices et analyser ses erreurs
 
-* [ ] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
+* [X] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
     * Savoir exactement ce que va cibler : 
       * [ ] `querySelector`
       * [ ] `querySelectorAll`
