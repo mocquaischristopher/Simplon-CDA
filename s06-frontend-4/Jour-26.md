@@ -25,7 +25,7 @@
       * [X] `firstChild`
       * [X] `lastChild`
       * [X] `previousSibling`
-      * [ ] `nextSibling`
+      * [X] `nextSibling`
     * [ ] Faire les 3 exercices et analyser ses erreurs
 
 * [ ] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
