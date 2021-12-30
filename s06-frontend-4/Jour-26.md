@@ -32,7 +32,7 @@
     * Savoir exactement ce que va cibler : 
       * [X] `querySelector`
       * [X] `querySelectorAll`
-      * [ ] `getElementById`
+      * [X] `getElementById`
       * [ ] `getElementsByName`
       * [ ] `getElementsByTagName`
       * [ ] `getElementsByClassName`
