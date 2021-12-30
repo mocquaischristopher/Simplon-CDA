@@ -37,7 +37,7 @@
       * [X] `getElementsByTagName`
       * [X] `getElementsByClassName`
       * [X] `elem.matches(css)`
-      * [ ] `elem.closest(css)`
+      * [X] `elem.closest(css)`
     * [ ] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
 
 * [ ] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
