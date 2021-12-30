@@ -33,7 +33,7 @@
       * [X] `querySelector`
       * [X] `querySelectorAll`
       * [X] `getElementById`
-      * [ ] `getElementsByName`
+      * [X] `getElementsByName`
       * [ ] `getElementsByTagName`
       * [ ] `getElementsByClassName`
       * [ ] `elem.matches(css)`
