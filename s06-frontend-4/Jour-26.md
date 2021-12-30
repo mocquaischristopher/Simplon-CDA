@@ -38,7 +38,7 @@
       * [X] `getElementsByClassName`
       * [X] `elem.matches(css)`
       * [X] `elem.closest(css)`
-    * [ ] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
+    * [X] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
 
 * [ ] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
   * [ ] Découvrir la différence entre les `nodeType` (1,3 et 9)
