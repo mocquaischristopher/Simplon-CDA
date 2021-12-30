@@ -34,7 +34,7 @@
       * [X] `querySelectorAll`
       * [X] `getElementById`
       * [X] `getElementsByName`
-      * [ ] `getElementsByTagName`
+      * [X] `getElementsByTagName`
       * [ ] `getElementsByClassName`
       * [ ] `elem.matches(css)`
       * [ ] `elem.closest(css)`
