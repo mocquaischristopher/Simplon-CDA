@@ -35,7 +35,7 @@
       * [X] `getElementById`
       * [X] `getElementsByName`
       * [X] `getElementsByTagName`
-      * [ ] `getElementsByClassName`
+      * [X] `getElementsByClassName`
       * [ ] `elem.matches(css)`
       * [ ] `elem.closest(css)`
     * [ ] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
