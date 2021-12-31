@@ -52,7 +52,7 @@
   * Savoir comment : 
     * [X] vérifier l'existence d'un `attribute`
     * [X] récupérer la valeur d'un `attribute`
-    * [ ] écrire une valeur pour un `attribute`
+    * [X] écrire une valeur pour un `attribute`
     * [ ] supprimer un `attribute`
     * [ ] récupérer une collection de tous les `attributes`
 
