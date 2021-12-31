@@ -54,7 +54,7 @@
     * [X] récupérer la valeur d'un `attribute`
     * [X] écrire une valeur pour un `attribute`
     * [X] supprimer un `attribute`
-    * [ ] récupérer une collection de tous les `attributes`
+    * [X] récupérer une collection de tous les `attributes`
 
 
 * Codewars :
