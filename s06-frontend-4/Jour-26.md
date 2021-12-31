@@ -51,7 +51,7 @@
 * [X] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
   * Savoir comment : 
     * [X] vérifier l'existence d'un `attribute`
-    * [ ] récupérer la valeur d'un `attribute`
+    * [X] récupérer la valeur d'un `attribute`
     * [ ] écrire une valeur pour un `attribute`
     * [ ] supprimer un `attribute`
     * [ ] récupérer une collection de tous les `attributes`
