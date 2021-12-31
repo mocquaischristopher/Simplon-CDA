@@ -46,7 +46,7 @@
   * [X] Comprendre comment fonctionne `outerHTML` (quelle est sa particularité)
   * Comprendre comment fonctionne `nodeValue` et `data` (quelle est leur utilité)
   * [X] Comprendre comment fonctionne `textContent` (quel est son point fort)
-  * [ ] Comprendre comment fonctionne `hidden`
+  * [X] Comprendre comment fonctionne `hidden`
 
 * [ ] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
   * Savoir comment : 
