@@ -48,7 +48,7 @@
   * [X] Comprendre comment fonctionne `textContent` (quel est son point fort)
   * [X] Comprendre comment fonctionne `hidden`
 
-* [ ] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
+* [X] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
   * Savoir comment : 
     * [ ] vérifier l'existence d'un `attribute`
     * [ ] récupérer la valeur d'un `attribute`
