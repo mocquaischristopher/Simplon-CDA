@@ -12,7 +12,7 @@
     * [X] Créer un `element`
     * [X] Utilier les différentes méthodes d'insertions
     * [X] Supprimer un `node`
-    * [ ] Cloner un `node`
+    * [X] Cloner un `node`
 
 * [ ] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
   * [ ] Comprendre la différence entre `className` et `classList`
