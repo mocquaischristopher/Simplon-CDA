@@ -11,7 +11,7 @@
   * Savoir :
     * [X] Créer un `element`
     * [X] Utilier les différentes méthodes d'insertions
-    * [ ] Supprimer un `node`
+    * [X] Supprimer un `node`
     * [ ] Cloner un `node`
 
 * [ ] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
