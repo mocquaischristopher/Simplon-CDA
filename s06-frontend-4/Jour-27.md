@@ -16,7 +16,7 @@
 
 * [X] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
   * [X] Comprendre la différence entre `className` et `classList`
-  * [ ] Savoir ajouter, supprimer et toggle une classe
+  * [X] Savoir ajouter, supprimer et toggle une classe
   * [ ] Savoir manipuler les styles dans les `elements`
 
 * [ ] Comprendre la tailles des fenêtres et le défilement (https://fr.javascript.info/size-and-scroll-window)
