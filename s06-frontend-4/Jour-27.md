@@ -7,7 +7,7 @@
 
 #### Découvrir le `DOM` :
 
-* [ ] Savoir modifier un document (https://javascript.info/modifying-document)
+* [X] Savoir modifier un document (https://javascript.info/modifying-document)
   * Savoir :
     * [ ] Créer un `element`
     * [ ] Utilier les différentes méthodes d'insertions
