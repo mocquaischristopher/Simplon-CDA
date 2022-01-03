@@ -19,7 +19,7 @@
   * [X] Savoir ajouter, supprimer et toggle une classe
   * [X] Savoir manipuler les styles dans les `elements`
 
-* [ ] Comprendre la tailles des fenêtres et le défilement (https://fr.javascript.info/size-and-scroll-window)
+* [X] Comprendre la tailles des fenêtres et le défilement (https://fr.javascript.info/size-and-scroll-window)
   * [ ] Comprendre la différence entre la taille de la fenêtre et du document
   * [ ] Comprendre le fonctionnement du défilement
 
