@@ -10,7 +10,7 @@
 * [X] Savoir modifier un document (https://javascript.info/modifying-document)
   * Savoir :
     * [X] Créer un `element`
-    * [ ] Utilier les différentes méthodes d'insertions
+    * [X] Utilier les différentes méthodes d'insertions
     * [ ] Supprimer un `node`
     * [ ] Cloner un `node`
 
