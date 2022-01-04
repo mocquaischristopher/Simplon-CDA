@@ -29,7 +29,7 @@
   * [X] `position:absolue`
 
 
-* [ ] Découvrir les évènements du `DOM` (https://javascript.info/introduction-browser-events)
+* [X] Découvrir les évènements du `DOM` (https://javascript.info/introduction-browser-events)
   * Comprendre ce que sont les : 
     * [ ] évènements liés à la souris
     * [ ] évènements liés aux formulaires
