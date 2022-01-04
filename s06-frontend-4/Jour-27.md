@@ -24,7 +24,7 @@
   * [X] Comprendre le fonctionnement du défilement
 
 
-* [ ] Comprendre le fonctionnement des coordonnées dans une page web (https://fr.javascript.info/coordinates)
+* [X] Comprendre le fonctionnement des coordonnées dans une page web (https://fr.javascript.info/coordinates)
   * [ ] `position:fixed`
   * [ ] `position:absolue`
 
