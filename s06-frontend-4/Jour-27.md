@@ -20,7 +20,7 @@
   * [X] Savoir manipuler les styles dans les `elements`
 
 * [X] Comprendre la tailles des fenêtres et le défilement (https://fr.javascript.info/size-and-scroll-window)
-  * [ ] Comprendre la différence entre la taille de la fenêtre et du document
+  * [X] Comprendre la différence entre la taille de la fenêtre et du document
   * [ ] Comprendre le fonctionnement du défilement
 
 
