@@ -33,7 +33,7 @@
   * Comprendre ce que sont les : 
     * [X] évènements liés à la souris
     * [X] évènements liés aux formulaires
-    * [ ] évènements liés au clavier
+    * [X] évènements liés au clavier
     * [ ] évènements liés au document
     * [ ] évènements liés au CSS
   * [ ] Comprendre ce qu'est un `handler` et comment cela fonctionne
