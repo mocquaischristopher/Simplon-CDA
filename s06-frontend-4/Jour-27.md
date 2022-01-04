@@ -31,7 +31,7 @@
 
 * [X] Découvrir les évènements du `DOM` (https://javascript.info/introduction-browser-events)
   * Comprendre ce que sont les : 
-    * [ ] évènements liés à la souris
+    * [X] évènements liés à la souris
     * [ ] évènements liés aux formulaires
     * [ ] évènements liés au clavier
     * [ ] évènements liés au document
