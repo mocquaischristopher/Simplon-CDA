@@ -26,7 +26,7 @@
 
 * [X] Comprendre le fonctionnement des coordonnées dans une page web (https://fr.javascript.info/coordinates)
   * [X] `position:fixed`
-  * [ ] `position:absolue`
+  * [X] `position:absolue`
 
 
 * [ ] Découvrir les évènements du `DOM` (https://javascript.info/introduction-browser-events)
