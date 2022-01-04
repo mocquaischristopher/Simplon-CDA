@@ -21,7 +21,7 @@
 
 * [X] Comprendre la tailles des fenêtres et le défilement (https://fr.javascript.info/size-and-scroll-window)
   * [X] Comprendre la différence entre la taille de la fenêtre et du document
-  * [ ] Comprendre le fonctionnement du défilement
+  * [X] Comprendre le fonctionnement du défilement
 
 
 * [ ] Comprendre le fonctionnement des coordonnées dans une page web (https://fr.javascript.info/coordinates)
