@@ -35,7 +35,7 @@
     * [X] évènements liés aux formulaires
     * [X] évènements liés au clavier
     * [X] évènements liés au document
-    * [ ] évènements liés au CSS
+    * [X] évènements liés au CSS
   * [ ] Comprendre ce qu'est un `handler` et comment cela fonctionne
   * [ ] Comprendre le fonctionnement et l'utilité de `addEventListener` et `removeEventListener`
 
